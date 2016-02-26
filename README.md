@@ -1,2 +1,2 @@
 # hello-world
-Just to understand
+Just to understand how GitHub works
